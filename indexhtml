@@ -36,7 +36,7 @@
   <section id="about" class="py-20 max-w-4xl mx-auto px-4 fade-in">
     <h3 class="text-4xl font-semibold text-teal-400 mb-6">About Me</h3>
     <div class="md:flex md:items-center md:gap-10">
-      <img src="assets/profile.JPEG" alt="Alex Profile Picture" class="rounded-full shadow-lg w-48 h-48 mx-auto md:mx-0 mb-6 md:mb-0 transform hover:scale-105 transition duration-300" />
+      <img src="profile.JPEG" alt="Alex Profile Picture" class="rounded-full shadow-lg w-48 h-48 mx-auto md:mx-0 mb-6 md:mb-0 transform hover:scale-105 transition duration-300" />
       <div>
         <p class="mb-6 text-lg leading-relaxed">I'm a Computer Science student with a passion for programming and problem-solving. I enjoy learning new technologies and building projects that turn ideas into code. I'm always looking to grow and create meaningful solutions through tech.</p>
         <div class="flex flex-wrap gap-4">
